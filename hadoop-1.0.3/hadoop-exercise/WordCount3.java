@@ -1,3 +1,5 @@
+/* This program runs with 3 arguments input_path temp_path and output_path */
+
 import java.io.IOException;
 import java.util.*;
 import java.util.HashMap;
